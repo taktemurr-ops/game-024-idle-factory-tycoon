@@ -1,0 +1,4 @@
+package_name("com.gamestudio100.game_024_idle_factory_tycoon")
+app_identifier("com.gamestudio100.game_024_idle_factory_tycoon")
+# json_key_file(ENV["PLAY_JSON_KEY"])   # Google Play service account (secret)
+# apple_id(ENV["APPLE_ID"])
