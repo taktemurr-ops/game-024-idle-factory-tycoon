@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_024_idle_factory_tycoon/core/arcade.dart';
-import 'package:game_024_idle_factory_tycoon/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_024_idle_factory_tycoon/game/rules.dart';
 import 'package:game_024_idle_factory_tycoon/game/tycoon_engine.dart';
 
